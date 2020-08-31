@@ -6,3 +6,4 @@
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 | 78    |[子集](./code/78-subset.py)|中等|
 | 104   |[二叉树的最大深度](./code/104-maximum_depth.py)|简单|
+|110    |[平衡二叉树](./code/110-balanced-binary-tree.py)|简单|
