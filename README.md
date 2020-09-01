@@ -7,3 +7,5 @@
 | 78    |[子集](./code/78-subset.py)|中等|
 | 104   |[二叉树的最大深度](./code/104-maximum_depth.py)|简单|
 |110    |[平衡二叉树](./code/110-balanced-binary-tree.py)|简单|
+| 144   |[二叉树的前序遍历](./code/144-preorder_traversal.py) |中等|
+| 145   |[二叉树的后序遍历](./code/145-postorder_traversal.py) |中等|
