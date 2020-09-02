@@ -6,6 +6,7 @@
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 | 78    |[子集](./code/78-subset.py)|中等 *|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
+| 98    |[验证二叉搜索树](./code/98-validate_binary_search_tree.py) |中等|
 |102   |[二叉树的层次遍历](./code/102-levelorder_traversal.py)   |中等|
 | 103  |[二叉树的锯齿形层次遍历](./code/103-zigzag_levelorder_traversal.py)|中等|
 | 104   |[二叉树的最大深度](./code/104-maximum_depth.py)|简单|
