@@ -16,3 +16,4 @@
 | 144   |[二叉树的前序遍历](./code/144-preorder_traversal.py) |中等|
 | 145   |[二叉树的后序遍历](./code/145-postorder_traversal.py) |中等|
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
+| 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
