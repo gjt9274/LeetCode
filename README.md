@@ -5,6 +5,7 @@
 | 1    |[两数之和](./code/1-two_sum.py) | 简单 |
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 | 78    |[子集](./code/78-subset.py)|中等 *|
+ 82     |[删除排序链表中的重复元素2](./code/82-remove_duplicates_from_sorted_list_2.py)|中等*|
 | 83    |[删除排序链表中的重复元素](./code/83-remove_duplicates_from_sorted_list.py)|简单*|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
 | 98    |[验证二叉搜索树](./code/98-validate_binary_search_tree.py) |中等|
