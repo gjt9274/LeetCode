@@ -7,6 +7,7 @@
 | 78    |[子集](./code/78-subset.py)|中等 *|
  82     |[删除排序链表中的重复元素2](./code/82-remove_duplicates_from_sorted_list_2.py)|中等*|
 | 83    |[删除排序链表中的重复元素](./code/83-remove_duplicates_from_sorted_list.py)|简单*|
+|92     |[反转链表2](./code/92-reverse_linked_list_2.py)|中等|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
 | 98    |[验证二叉搜索树](./code/98-validate_binary_search_tree.py) |中等|
 |102   |[二叉树的层次遍历](./code/102-levelorder_traversal.py)   |中等|
