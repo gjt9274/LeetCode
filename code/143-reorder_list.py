@@ -11,7 +11,7 @@ class Solution:
         # 思路
         # 找到中断的点，将链表分成两段（快慢指针）
         # 反转后面那段，然后合并两个链表
-        if not head or not head.next:
+        if not head:
             return head
 
         #找到中断点
