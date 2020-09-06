@@ -17,7 +17,9 @@
 | 104   |[二叉树的最大深度](./code/104-maximum_depth.py)|简单|
 | 107   |[二叉树的层次遍历2](./code/107-levelorder_traversal_2.py)|简单|
 |110    |[平衡二叉树](./code/110-balanced_binary_tree.py)|简单|
-|124    |[二叉树中的最大路径和](./code/maximum_path_sum.py)|困难*|
+|124    |[二叉树中的最大路径和](./code/124-maximum_path_sum.py)|困难*|
+| 141   |[环形链表](./code/141-linked_list_cycle.py)|简单|
+|  143  |[重排链表](./code/143-reorder_list.py) |中等|
 | 144   |[二叉树的前序遍历](./code/144-preorder_traversal.py) |中等|
 | 145   |[二叉树的后序遍历](./code/145-postorder_traversal.py) |中等|
 | 148   |[排序链表](./code/148-sort_list.py)|中等*|
