@@ -25,5 +25,6 @@
 | 145   |[二叉树的后序遍历](./code/145-postorder_traversal.py) |中等|
 | 148   |[排序链表](./code/148-sort_list.py)|中等*|
 |   206 |[反转链表](./code/206-reverse_linked_list.py)|简单|
+|  234  |[回文链表](./code/234-palindrome_linked_list.py)|简单*|
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
