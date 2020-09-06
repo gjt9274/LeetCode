@@ -3,6 +3,7 @@
 | 题号 |题目| 难度 |
 | ---  | --- | --- |
 | 1    |[两数之和](./code/1-two_sum.py) | 简单 |
+| 2    |[两数相加](./code/2-add_two_numbers.py)|中等|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 | 78    |[子集](./code/78-subset.py)|中等 *|
