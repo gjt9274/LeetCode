@@ -21,6 +21,7 @@
 |110    |[平衡二叉树](./code/110-balanced_binary_tree.py)|简单|
 |124    |[二叉树中的最大路径和](./code/124-maximum_path_sum.py)|困难*|
 |  133  |[克隆图](./code/133-clone_graph.py)|中等*|
+| 136  |[只出现一次的数字](./code/136-single_number.py)|简单|
 | 138   |[复制带随机指针的链表](./code/138-copy_list_with_random_pointer.py)|中等*|
 | 141   |[环形链表](./code/141-linked_list_cycle.py)|简单|
 |  142  |[环形链表2](./code/142-linked_list_cycle_2.py)|中等*|
