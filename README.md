@@ -31,6 +31,7 @@
 | 148   |[排序链表](./code/148-sort_list.py)|中等*|
 | 150| [逆波兰表达式求值](./code/150-evaluate_reverse_polish_notation.py)|中等|
 | 155   |[最小栈](./code/155-min_stack.py)|简单|
+| 190   |[颠倒二进制位](./code/190-reverse_bits.py)|简单*|
 |  191  |[位1的个数](./code/191-number_of_1_bits.py) |简单|
 | 200   |[岛屿数量](./code/200-number_of_islands.py) |中等*|
 |   206 |[反转链表](./code/206-reverse_linked_list.py)|简单|
