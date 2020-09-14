@@ -36,6 +36,7 @@
 |  232  |[用栈实现队列](./code//232-implement_queue_using_stacks.py)|简单|
 |  234  |[回文链表](./code/234-palindrome_linked_list.py)|简单*|
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
+| 260  |[只出现一次的数字3](./code/260-single_number_3.py)|中等*|
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
 |  542 |[542-01_matrix.py](./code/542-01_matrix.py)|中等*|
 | 695   |[岛屿的最大面积](./code/695-max_area_of_island.py)|中等|
