@@ -23,7 +23,7 @@ class Solution:
         res = [0]*(num+1)
         for i in range(num+1):
             if (i & 1) == 0:
-                res[i] = res[i//2]
+                res[i] = res[i//2]  # 二进制中乘以2，相当于左移1位，1的个数不变
             else:
-                res[i] = res[i-1] + 1
+                res[i] = res[i-1] + 1  # 等于其前一个数+1
         return res
