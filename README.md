@@ -7,6 +7,7 @@
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
+| 74    |[搜索二维矩阵](./code/74-search_a_2d_matrix.py) |中等*|
 | 78    |[子集](./code/78-subset.py)|中等 *|
  82     |[删除排序链表中的重复元素2](./code/82-remove_duplicates_from_sorted_list_2.py)|中等*|
 | 83    |[删除排序链表中的重复元素](./code/83-remove_duplicates_from_sorted_list.py)|简单*|
