@@ -35,7 +35,8 @@
 | 145   |[二叉树的后序遍历](./code/145-postorder_traversal.py) |中等|
 | 148   |[排序链表](./code/148-sort_list.py)|中等*|
 | 150| [逆波兰表达式求值](./code/150-evaluate_reverse_polish_notation.py)|中等|
-| 153  |[寻找旋转排序数组中的最小值](./cdoe/153-find_minimum_in_rotated_sorted_array.py)|中等|
+| 153  |[寻找旋转排序数组中的最小值](./code/153-find_minimum_in_rotated_sorted_array.py)|中等|
+|154    |[寻找旋转排序数组中的最小值2](./code/154-find_minimum_in_rotated_sorted_array_2.py)|困难*|
 | 155   |[最小栈](./code/155-min_stack.py)|简单|
 | 190   |[颠倒二进制位](./code/190-reverse_bits.py)|简单*|
 |  191  |[位1的个数](./code/191-number_of_1_bits.py) |简单|
