@@ -11,6 +11,7 @@
 | 61  |[搜索区间(Lintcode)](./code/61(Lintcode)-search_for_a_range.java)|中等|
 | 74    |[搜索二维矩阵](./code/74-search_a_2d_matrix.py) |中等*|
 | 78    |[子集](./code/78-subset.py)|中等 *|
+| 81  |[搜索旋转排序数组2](./code/81-search_in_rotated_sorted_array_2.py)|中等*|
  82     |[删除排序链表中的重复元素2](./code/82-remove_duplicates_from_sorted_list_2.py)|中等*|
 | 83    |[删除排序链表中的重复元素](./code/83-remove_duplicates_from_sorted_list.py)|简单*|
 | 84    |[最大矩形](./code/84-largest_rectangle_in_histogram.py) |困难*|
