@@ -6,6 +6,7 @@
 | 2    |[两数相加](./code/2-add_two_numbers.py)|中等|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
+|33     |[搜索旋转排序数组](./code/33-search_in_rotated_sorted_array.py) |中等|
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
 | 61  |[搜索区间(Lintcode)](./code/61(Lintcode)-search_for_a_range.java)|中等|
 | 74    |[搜索二维矩阵](./code/74-search_a_2d_matrix.py) |中等*|
