@@ -24,6 +24,7 @@
 | 104   |[二叉树的最大深度](./code/104-maximum_depth.py)|简单|
 | 107   |[二叉树的层次遍历2](./code/107-levelorder_traversal_2.py)|简单|
 |110    |[平衡二叉树](./code/110-balanced_binary_tree.py)|简单|
+| 120 |[三角形最小路径和](./code/120-triangle.py)|中等*|
 |124    |[二叉树中的最大路径和](./code/124-maximum_path_sum.py)|困难*|
 |  133  |[克隆图](./code/133-clone_graph.py)|中等*|
 | 136  |[只出现一次的数字](./code/136-single_number.py)|简单|
