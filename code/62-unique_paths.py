@@ -4,7 +4,6 @@ class Solution:
         d = [[0] * n for _ in range(m)]  # 每一项代表从start位置到该位置的路径总数
 
         # 初始化
-        d[0][0] = 0
         for i in range(m):
             d[i][0] = 1
         for j in range(n):
