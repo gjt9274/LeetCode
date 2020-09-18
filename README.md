@@ -10,6 +10,7 @@
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
 | 61  |[搜索区间(Lintcode)](./code/61(Lintcode)-search_for_a_range.java)|中等|
 |  62  |[不同路径](./code/62-unique_paths.py)|中等|
+|   63  |[不同路径2](./code/63-unique_paths.py) |中等|
 |  64 |[最小路径和](./code/64-minimum_path_sum.py)|中等|
 | 74    |[搜索二维矩阵](./code/74-search_a_2d_matrix.py) |中等*|
 | 78    |[子集](./code/78-subset.py)|中等 *|
