@@ -8,6 +8,7 @@
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 |33     |[搜索旋转排序数组](./code/33-search_in_rotated_sorted_array.py) |中等|
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
+|  45  |[跳跃游戏2](./code/45-jump_game_2.py)|困难*|
 |   55  |[跳跃游戏](./code/55-jump_game.py) |中等*|
 | 61  |[搜索区间(Lintcode)](./code/61(Lintcode)-search_for_a_range.java)|中等|
 |  62  |[不同路径](./code/62-unique_paths.py)|中等|
