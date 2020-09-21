@@ -63,4 +63,5 @@
 | 695   |[岛屿的最大面积](./code/695-max_area_of_island.py)|中等|
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
 | 704  |[二分搜索](./code/704-binary_search.py)|简单|
+|  1143  |[最长公共子序列](./code/1143-longest_common_subsequence.py)|中等*|
 | 1162 |[地图分析](./code/1162-as_far_from_land_as_possible.py)|中等|
