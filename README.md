@@ -35,6 +35,7 @@
 |  133  |[克隆图](./code/133-clone_graph.py)|中等*|
 | 136  |[只出现一次的数字](./code/136-single_number.py)|简单|
 | 138   |[复制带随机指针的链表](./code/138-copy_list_with_random_pointer.py)|中等*|
+|  139  |[单词拆分](./code/139-word_break.py)|中等*|
 | 141   |[环形链表](./code/141-linked_list_cycle.py)|简单|
 |  142  |[环形链表2](./code/142-linked_list_cycle_2.py)|中等*|
 |  143  |[重排链表](./code/143-reorder_list.py) |中等|
