@@ -5,6 +5,7 @@
 | 1    |[两数之和](./code/1-two_sum.py) | 简单 |
 | 2    |[两数相加](./code/2-add_two_numbers.py)|中等|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
+|   24  |[两两交换链表中的节点](./code/24-swap_nodes_in_pairs.py)|中等*
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 |33     |[搜索旋转排序数组](./code/33-search_in_rotated_sorted_array.py) |中等|
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
