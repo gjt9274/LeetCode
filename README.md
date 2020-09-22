@@ -57,6 +57,7 @@
 |   278|[第一个错误的版本](./code/278-first_bad_version.py)|简单|
 |  300  |[最长上升子序列](./code/300-longest_increasing_subsequence.py) |中等|
 |  322 |[零钱兑换](./code/322-coin_change.py)|中等*|
+| 344  |[反转字符串](./code/344-reverse_string.py)|简单|
 | 338 |[比特位计数](./code/338-counting_bits.py)|中等*|
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
