@@ -5,6 +5,7 @@
 | 1    |[两数之和](./code/1-two_sum.py) | 简单 |
 | 2    |[两数相加](./code/2-add_two_numbers.py)|中等|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
+|   24  |[两两交换链表中的节点](./code/24-swap_nodes_in_pairs.py)|中等*
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
 |33     |[搜索旋转排序数组](./code/33-search_in_rotated_sorted_array.py) |中等|
 | 35    |[搜索插入位置](./code/35-search_insert_position.py)|简单|
@@ -57,6 +58,8 @@
 | 260  |[只出现一次的数字3](./code/260-single_number_3.py)|中等*|
 |   278|[第一个错误的版本](./code/278-first_bad_version.py)|简单|
 |  300  |[最长上升子序列](./code/300-longest_increasing_subsequence.py) |中等|
+|  322 |[零钱兑换](./code/322-coin_change.py)|中等*|
+| 344  |[反转字符串](./code/344-reverse_string.py)|简单|
 | 338 |[比特位计数](./code/338-counting_bits.py)|中等*|
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
