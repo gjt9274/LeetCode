@@ -56,6 +56,7 @@
 | 260  |[只出现一次的数字3](./code/260-single_number_3.py)|中等*|
 |   278|[第一个错误的版本](./code/278-first_bad_version.py)|简单|
 |  300  |[最长上升子序列](./code/300-longest_increasing_subsequence.py) |中等|
+|  322 |[零钱兑换](./code/322-coin_change.py)|中等*|
 | 338 |[比特位计数](./code/338-counting_bits.py)|中等*|
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
