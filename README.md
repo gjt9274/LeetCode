@@ -25,6 +25,7 @@
 | 86    |[分隔链表](./code/86-partition_list.py)|中等*|
 |92     |[反转链表2](./code/92-reverse_linked_list_2.py)|中等|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
+|  95  |[不同的二叉搜索数2](./code/95-unique_binary_search_tree_2.py) |中等*|
 | 98    |[验证二叉搜索树](./code/98-validate_binary_search_tree.py) |中等|
 |102   |[二叉树的层次遍历](./code/102-levelorder_traversal.py)   |中等|
 | 103  |[二叉树的锯齿形层次遍历](./code/103-zigzag_levelorder_traversal.py)|中等|
