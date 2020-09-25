@@ -17,6 +17,7 @@
 |  64 |[最小路径和](./code/64-minimum_path_sum.py)|中等|
 | 70  |[爬楼梯](./code/70-climbing_stairs.py) |简单|
 | 74    |[搜索二维矩阵](./code/74-search_a_2d_matrix.py) |中等*|
+|  76 |[最小覆盖子串](./code/76-minimum_window_substring.py) |困难*|
 | 78    |[子集](./code/78-subset.py)|中等 *|
 | 81  |[搜索旋转排序数组2](./code/81-search_in_rotated_sorted_array_2.py)|中等*|
  82     |[删除排序链表中的重复元素2](./code/82-remove_duplicates_from_sorted_list_2.py)|中等*|
