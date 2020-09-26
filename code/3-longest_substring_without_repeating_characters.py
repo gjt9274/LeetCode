@@ -30,8 +30,8 @@ class Solution:
         right = -1
         for left in range(len(s)):
             if left != 0:
-                lookup.remove(s[left-1])
-            while right+1 < len(s) and s[right+1] not in lookup:
+                lookup.remove(s[left-1])  #移除左边元素
+            while right+1 < len(s) and s[right+1] not in lookup: #[left+1,right]一定没有重复元素，所以继续移动右指针
                 lookup.add(s[right+1])
                 right += 1
             maxLen = max(maxLen, right-left + 1)
