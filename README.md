@@ -4,6 +4,7 @@
 | ---  | --- | --- |
 | 1    |[两数之和](./code/1-two_sum.py) | 简单 |
 | 2    |[两数相加](./code/2-add_two_numbers.py)|中等|
+|  3   |[无重复字符的最长子串](./code/3-longest_substring_without_repeating_characters.py)|中等*|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
 |   24  |[两两交换链表中的节点](./code/24-swap_nodes_in_pairs.py)|中等*
 | 28    |[实现strStr()函数](./code/28-strStr.py)|简单|
@@ -53,6 +54,7 @@
 | 200   |[岛屿数量](./code/200-number_of_islands.py) |中等*|
 | 201   |[数字范围按位与](./code/201-bitwise_and_of_numbers_range.py)|中等*|
 |   206 |[反转链表](./code/206-reverse_linked_list.py)|简单|
+|   209  |[长度最小的子数组](./code/209-minimum_size_subarray_sum.py) |中等*|
 |  232  |[用栈实现队列](./code//232-implement_queue_using_stacks.py)|简单|
 |  234  |[回文链表](./code/234-palindrome_linked_list.py)|简单*|
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
