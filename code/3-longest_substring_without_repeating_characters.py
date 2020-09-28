@@ -37,3 +37,21 @@ class Solution:
             maxLen = max(maxLen, right-left + 1)
 
         return maxLen
+
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        left, right = 0, 0
+        ans = 0
+        win = defaultdict(lambda: 0)
+        while right < len(s):
+            c = s[right]
+            win[c] += 1
+            right += 1
+            while win[c] > 1:  # 缩小窗口
+                d = s[left]
+                left += 1
+                win[d] -= 1
+            ans = max(ans, right-left)
+
+        return ans
