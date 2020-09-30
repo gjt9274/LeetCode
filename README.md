@@ -25,6 +25,7 @@
 | 83    |[删除排序链表中的重复元素](./code/83-remove_duplicates_from_sorted_list.py)|简单*|
 | 84    |[最大矩形](./code/84-largest_rectangle_in_histogram.py) |困难*|
 | 86    |[分隔链表](./code/86-partition_list.py)|中等*|
+|  90 |[子集2](./code/90-subsets_2.py)| 中等*|
 |92     |[反转链表2](./code/92-reverse_linked_list_2.py)|中等|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
 |  95  |[不同的二叉搜索数2](./code/95-unique_binary_search_tree_2.py) |中等*|
