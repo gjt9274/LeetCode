@@ -65,6 +65,7 @@
 | 344  |[反转字符串](./code/344-reverse_string.py)|简单|
 | 338 |[比特位计数](./code/338-counting_bits.py)|中等*|
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
+|  424   |[替换后的最长重复字符](./code/424-longest_repeating_character_replacement.py)|中等*|
 |   438 |[找到字符串中所有字母异位词](./code/438-find_all_anagrams_in_a_string.py)|中等|
 |  509  |[斐波那契数](./code/509-fibonacci_number.py) |简单|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
