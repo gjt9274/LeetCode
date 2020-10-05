@@ -30,6 +30,7 @@
 | 86    |[分隔链表](./code/86-partition_list.py)|中等*|
 |  90 |[子集2](./code/90-subsets_2.py)| 中等*|
 |92     |[反转链表2](./code/92-reverse_linked_list_2.py)|中等|
+|   93  |[复原IP地址](./code/93-restore_ip_address.py)|中等*|
 | 94   |[二叉树的中序遍历](./code/94-inorder_traversal.py) |中等|
 |  95  |[不同的二叉搜索数2](./code/95-unique_binary_search_tree_2.py) |中等*|
 | 98    |[验证二叉搜索树](./code/98-validate_binary_search_tree.py) |中等|
@@ -40,6 +41,7 @@
 |110    |[平衡二叉树](./code/110-balanced_binary_tree.py)|简单|
 | 120 |[三角形最小路径和](./code/120-triangle.py)|中等*|
 |124    |[二叉树中的最大路径和](./code/124-maximum_path_sum.py)|困难*|
+| 131  |[分割回文串](./code/131-palindrome_partitioning.py)|中等*|
 |  133  |[克隆图](./code/133-clone_graph.py)|中等*|
 | 136  |[只出现一次的数字](./code/136-single_number.py)|简单|
 | 138   |[复制带随机指针的链表](./code/138-copy_list_with_random_pointer.py)|中等*|
