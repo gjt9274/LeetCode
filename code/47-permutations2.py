@@ -1,5 +1,5 @@
 class Solution:
-    def permuteUnique(self, nums):
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
         res = []
         visited = {index: False for index in range(len(nums))}
@@ -28,7 +28,3 @@ class Solution:
                 path = path[:-1]
         backtrack(nums, [], visited)
         return res
-
-if __name__ == "__main__":
-    s = Solution()
-    res =s.permuteUnique([1,1,2])
