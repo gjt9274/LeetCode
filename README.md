@@ -15,6 +15,7 @@
 |  45  |[跳跃游戏2](./code/45-jump_game_2.py)|困难*|
 | 46   |[全排列](./code/46-permutation.py) |中等|
 |   55  |[跳跃游戏](./code/55-jump_game.py) |中等*|
+  56 |  [合并区间](./array_and_string/3-merge.py)|中等|
 | 61  |[搜索区间(Lintcode)](./code/61(Lintcode)-search_for_a_range.java)|中等|
 |  62  |[不同路径](./code/62-unique_paths.py)|中等|
 |   63  |[不同路径2](./code/63-unique_paths.py) |中等|
@@ -80,4 +81,5 @@
 | 695   |[岛屿的最大面积](./code/695-max_area_of_island.py)|中等|
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
 | 704  |[二分搜索](./code/704-binary_search.py)|简单|
+|  724  |[寻找数组的中心索引](./array_and_string/1-pivotIndex.py)|简单|
 | 1162 |[地图分析](./code/1162-as_far_from_land_as_possible.py)|中等|
