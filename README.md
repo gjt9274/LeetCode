@@ -74,6 +74,7 @@
 | 394   |[字符串编码](./code/394-decode_string.py)|中等*|
 |  424   |[替换后的最长重复字符](./code/424-longest_repeating_character_replacement.py)|中等*|
 |   438 |[找到字符串中所有字母异位词](./code/438-find_all_anagrams_in_a_string.py)|中等|
+|  498  |[对角线遍历](./array_and_string/6-findDiagonalOrder.py)|中等*|
 |   450  |[删除二叉搜索树中的结点](./code/450-delete_node_in_a_bst.py)|中等*|
 |  509  |[斐波那契数](./code/509-fibonacci_number.py) |简单|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
