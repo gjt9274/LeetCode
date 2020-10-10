@@ -83,3 +83,5 @@
 | 704  |[二分搜索](./code/704-binary_search.py)|简单|
 |  724  |[寻找数组的中心索引](./array_and_string/1-pivotIndex.py)|简单|
 | 1162 |[地图分析](./code/1162-as_far_from_land_as_possible.py)|中等|
+| none |[旋转数组](./array_and_string/4-rotate_matrix_lcci.py)|中等*|
+| none |[零矩阵](./array_and_string/5-setZeroes.py) |中等*|
