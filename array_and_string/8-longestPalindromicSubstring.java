@@ -16,8 +16,8 @@ class Solution {
         }
 
         // 状态转移方程
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
+        for (int j = 1; j < n; j++) {
+            for (int i = 0; i < j; i++) {
                 if (s.charAt(i) != s.charAt(j)) {
                     dp[i][j] = false;
                 } else {
