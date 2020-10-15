@@ -44,6 +44,7 @@
 | 107   |[二叉树的层次遍历2](./code/107-levelorder_traversal_2.py)|简单|
 |110    |[平衡二叉树](./code/110-balanced_binary_tree.py)|简单|
 |  118 |[杨辉三角](./array_and_string/17-pascalsTriangle.java)|简单|
+|  119 |[杨辉三角](./array_and_string/18-pascalsTriangle2.java)|简单|
 | 120 |[三角形最小路径和](./code/120-triangle.py)|中等*|
 |124    |[二叉树中的最大路径和](./code/124-maximum_path_sum.py)|困难*|
 | 131  |[分割回文串](./code/131-palindrome_partitioning.py)|中等*|
