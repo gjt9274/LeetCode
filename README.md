@@ -59,6 +59,7 @@
 | 153  |[寻找旋转排序数组中的最小值](./code/153-find_minimum_in_rotated_sorted_array.py)|中等|
 |154    |[寻找旋转排序数组中的最小值2](./code/154-find_minimum_in_rotated_sorted_array_2.py)|困难*|
 | 155   |[最小栈](./code/155-min_stack.py)|简单|
+|  167  |[两数之和2-输入有序数组](./array_and_string/13-twoSum2.java)|简单|
 | 190   |[颠倒二进制位](./code/190-reverse_bits.py)|简单*|
 |  191  |[位1的个数](./code/191-number_of_1_bits.py) |简单|
 | 200   |[岛屿数量](./code/200-number_of_islands.py) |中等*|
