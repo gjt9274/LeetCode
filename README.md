@@ -81,6 +81,7 @@
 |   450  |[删除二叉搜索树中的结点](./code/450-delete_node_in_a_bst.py)|中等*|
 |  509  |[斐波那契数](./code/509-fibonacci_number.py) |简单|
 |  542 |[01矩阵](./code/542-01_matrix.py)|中等*|
+|   561  |[数组拆分1](./array_and_string/12-arrayPartition1.java)|简单|
 |   567  |[字符串的排列](./code/567-permutation_in_string.py)| 中等*|
 | 695   |[岛屿的最大面积](./code/695-max_area_of_island.py)|中等|
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
