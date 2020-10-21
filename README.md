@@ -91,6 +91,7 @@
 |  557  |[反转字符串中的单词2](./array_and_string/19-reverseWordsInAString2.java)|简单|
 |   561  |[数组拆分1](./array_and_string/12-arrayPartition1.java)|简单|
 |   567  |[字符串的排列](./code/567-permutation_in_string.py)| 中等*|
+| 622   |[设计循环队列](./queue_and_stack/1-designCircularQueue.java) |中等*|
 | 695   |[岛屿的最大面积](./code/695-max_area_of_island.py)|中等|
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
 | 704  |[二分搜索](./code/704-binary_search.py)|简单|
