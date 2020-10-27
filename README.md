@@ -75,6 +75,7 @@
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
 | 260  |[只出现一次的数字3](./code/260-single_number_3.py)|中等*|
 |   278|[第一个错误的版本](./code/278-first_bad_version.py)|简单|
+|  279  |[完全平方数](./queue_and_stack/4-perfectSquares.java) 中等*|
 |  283  |[移动零](./array_and_string/22-moveZeroes.java) |简单|
 |  300  |[最长上升子序列](./code/300-longest_increasing_subsequence.py) |中等|
 |  322 |[零钱兑换](./code/322-coin_change.py)|中等*|
@@ -96,7 +97,7 @@
 | 701 |[二叉搜索树的插入操作](./code/701-insert_into_a_binary_search_tree.py)|中等|
 | 704  |[二分搜索](./code/704-binary_search.py)|简单|
 |  724  |[寻找数组的中心索引](./array_and_string/1-pivotIndex.py)|简单|
-|   752  |[打开转盘锁](./queue_and_stack/3-oepnTheLock.java) |中等*|
+|   752  |[打开转盘锁](./queue_and_stack/3-openTheLock.java) |中等*|
 |  1143  |[最长公共子序列](./code/1143-longest_common_subsequence.py)|中等*|
 | 1162 |[地图分析](./code/1162-as_far_from_land_as_possible.py)|中等|
 | none |[旋转数组](./array_and_string/4-rotate_matrix_lcci.py)|中等*|
