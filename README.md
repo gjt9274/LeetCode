@@ -8,6 +8,7 @@
 |  7   |[最长公共前缀](./array_and_string/7-longestCommonPrefix.py) |简单|
 |   8   |[最长回文子串](./array_and_string/8-longestPalindromicSubstring.java)|中等*|
 |  17  |[电话号码的字母组合](./code/17-letter_combinations_of_a_phone_number.py) |中等|
+|   20  |[有效的括号](./queue_and_stack/6-validParentheses.java) |简单|
 | 21   |[合并两个有序链表](./code/21-merge_two_sorted_lists.py)|简单|
 |   24  |[两两交换链表中的节点](./code/24-swap_nodes_in_pairs.py)|中等*|
 |  26   |[删除排序数组中的重复项](./array_and_string/21-removeDuplicatesFromSortedArray.java) |简单|
