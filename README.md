@@ -75,7 +75,7 @@
 |236    |[二叉树的最近公共祖先](./code/236-lowest_common_ancestor.py)|中等|
 | 260  |[只出现一次的数字3](./code/260-single_number_3.py)|中等*|
 |   278|[第一个错误的版本](./code/278-first_bad_version.py)|简单|
-|  279  |[完全平方数](./queue_and_stack/4-perfectSquares.java) 中等*|
+|  279  |[完全平方数](./queue_and_stack/4-perfectSquares.java) |中等*|
 |  283  |[移动零](./array_and_string/22-moveZeroes.java) |简单|
 |  300  |[最长上升子序列](./code/300-longest_increasing_subsequence.py) |中等|
 |  322 |[零钱兑换](./code/322-coin_change.py)|中等*|
